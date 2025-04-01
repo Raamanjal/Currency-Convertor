@@ -1,18 +1,18 @@
-#Currency Converter
-A simple web-based currency converter that fetches real-time exchange rates using FreeCurrencyAPI.
-Features:
-Supports multiple currencies
-Fetches real-time exchange rates
-Displays country flags for selected currencies
-Simple and user-friendly interface
-Technologies Used:
-HTML, CSS, JavaScript for the frontend
-FreeCurrencyAPI for fetching exchange rates
-How It Works:
-Select the currencies you want to convert (From & To dropdowns).
-Enter the amount you want to convert.
-Click the "Convert" button to fetch the latest exchange rate.
-The converted amount is displayed instantly.
-API Used:
-This project uses FreeCurrencyAPI to fetch live exchange rates:
-https://api.freecurrencyapi.com/v1/latest?apikey=YOUR_API_KEY
+#Currency Converter <br>
+A simple web-based currency converter that fetches real-time exchange rates using FreeCurrencyAPI.<br>
+Features:<br>
+Supports multiple currencies<br>
+Fetches real-time exchange rates<br>
+Displays country flags for selected currencies<br>
+Simple and user-friendly interface<br>
+Technologies Used:<br>
+HTML, CSS, JavaScript for the frontend<br>
+FreeCurrencyAPI for fetching exchange rates<br>
+How It Works:<br>
+Select the currencies you want to convert (From & To dropdowns).<br>
+Enter the amount you want to convert.<br>
+Click the "Convert" button to fetch the latest exchange rate.<br>
+The converted amount is displayed instantly.<br>
+API Used:<br>
+This project uses FreeCurrencyAPI to fetch live exchange rates:<br>
+https://api.freecurrencyapi.com/v1/latest?apikey=YOUR_API_KEY<br>
